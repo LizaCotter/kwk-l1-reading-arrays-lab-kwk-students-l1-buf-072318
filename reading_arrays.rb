@@ -39,6 +39,7 @@ def first_second_and_third_students
   STUDENT_NAMES[i]
   i+=1
   end
+  return STUDENT_NAMES
 end
 
 puts first_second_and_third_students
