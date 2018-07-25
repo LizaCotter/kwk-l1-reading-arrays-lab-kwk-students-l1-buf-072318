@@ -39,8 +39,8 @@ def first_second_and_third_students
   while i<=2 
   array123.push(STUDENT_NAMES[i])
   i+=1
-  return array123
   end
+return array123
 end
 
 puts first_second_and_third_students
