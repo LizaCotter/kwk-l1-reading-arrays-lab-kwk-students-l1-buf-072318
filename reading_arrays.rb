@@ -40,7 +40,7 @@ def first_second_and_third_students
   array123.push(STUDENT_NAMES[i])
   i+=1
   end
-return array123
+  return array123
 end
 
 puts first_second_and_third_students
