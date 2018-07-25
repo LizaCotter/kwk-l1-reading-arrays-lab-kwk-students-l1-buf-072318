@@ -34,7 +34,7 @@ end
 
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
-  STUDENT_NAMES[1]
-  STUDENT_NAMES[2]
-  STUDENT_NAMES[3]
+  i=0 
+  while i<=2 
+  print STUDENT_NAMES[i]
 end
