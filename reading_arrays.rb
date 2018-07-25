@@ -41,4 +41,4 @@ def first_second_and_third_students
   end
 end
 
-first_second_and_third_students
+puts first_second_and_third_students
