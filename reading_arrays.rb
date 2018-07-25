@@ -34,11 +34,11 @@ end
 
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
+  array123=[]
   i=0 
   while i<=2 
-  array123 = STUDENT_NAMES[i]
+  array123.push(STUDENT_NAMES[i])
   i+=1
-  return array123
   end
 end
 
