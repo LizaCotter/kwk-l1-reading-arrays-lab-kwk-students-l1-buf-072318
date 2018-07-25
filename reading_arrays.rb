@@ -38,8 +38,8 @@ def first_second_and_third_students
   while i<=2 
   array123 = STUDENT_NAMES[i]
   i+=1
-  end
   return array123
+  end
 end
 
 puts first_second_and_third_students
