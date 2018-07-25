@@ -36,10 +36,10 @@ def first_second_and_third_students
   # Write a solution that returns the first, second and third students
   i=0 
   while i<=2 
-  STUDENT_NAMES[i]
+  123array[] = STUDENT_NAMES[i]
   i+=1
   end
-  return STUDENT_NAMES
+  return 123array[]
 end
 
 puts first_second_and_third_students
