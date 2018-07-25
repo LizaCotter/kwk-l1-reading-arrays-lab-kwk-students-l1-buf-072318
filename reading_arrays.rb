@@ -40,3 +40,5 @@ def first_second_and_third_students
   i+=1
   end
 end
+
+puts first_second_and_third_students
