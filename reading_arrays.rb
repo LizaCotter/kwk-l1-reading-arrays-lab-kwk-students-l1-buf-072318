@@ -36,7 +36,7 @@ def first_second_and_third_students
   # Write a solution that returns the first, second and third students
   i=0 
   while i<=2 
-  print STUDENT_NAMES[i]
+  puts STUDENT_NAMES[i]
   i+=1
   end
 end
