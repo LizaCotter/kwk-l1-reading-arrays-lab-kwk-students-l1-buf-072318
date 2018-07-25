@@ -38,5 +38,5 @@ def first_second_and_third_students
   while i<=2 
   print STUDENT_NAMES[i]
   i+=1
-end
+  end
 end
